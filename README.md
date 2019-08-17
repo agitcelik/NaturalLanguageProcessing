@@ -3,13 +3,13 @@ Data preprocessing with Natural Language Processing methods such as tokenizer, s
 
 .csv data file was simplified some rows were deleted by hand. Others were done at pre-processing part.
 
-1. In order to feed the applied machine learning algorithms with our textual data as input, it is needed to change the form of representation of the text data. You are expected to use the Bag-of-Words model to encode text data to a list of vectors of features.
+1. In order to feed the applied machine learning algorithms with our textual data as input, it is needed to change the form of representation of the text data. the Bag-of-Words model was used to encode text data to a list of vectors of features.
 
-2. After having the text data with the proper form of representation, you are expected to apply Linear Regression, Naive Bayes, SVM and kNN algorithms.
+2. After having the text data with the proper form of representation, Linear Regression, Naive Bayes, SVM and kNN algorithms were applied.
 
-3. For each applied algorithm, you are expected to list Accuracy, Precision, Recall and F1 score points.
+3. For each applied algorithm, Accuracy, Precision, Recall and F1 score points were calculated by using scikit-learn.
 
-4. As the last step, you are required to create a function which takes two parameters that are randomly selected reviews from your dataset and compares the similarity of the sentences semantically. You are expected to use WordNet to compute the similarity of the sentences, since it is well-known and extensively used in the community.
+4. As the last step, a function which takes two parameters that are randomly selected reviews from your dataset and compares the similarity of the sentences semantically. You are expected to use WordNet to compute the similarity of the sentences, since it is well-known and extensively used in the community.
 
 
 For some help, following resources that explain the above mentioned techniques for practical purposes.
