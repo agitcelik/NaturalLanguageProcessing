@@ -1,6 +1,7 @@
 # NaturalLanguageProcessing
 Data preprocessing with Natural Language Processing methods such as tokenizer, stopwords, PorterStemmer, bag of words etc. to clean and make data clear. Then, Some Machine Learning Algorithm were applied. 
 
+.csv data file was simplified some rows were deleted by hand. Others were done at pre-processing part.
 
 1. In order to feed the applied machine learning algorithms with our textual data as input, it is needed to change the form of representation of the text data. You are expected to use the Bag-of-Words model to encode text data to a list of vectors of features.
 
