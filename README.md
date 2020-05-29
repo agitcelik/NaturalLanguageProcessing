@@ -12,13 +12,13 @@ Data preprocessing with Natural Language Processing methods such as tokenizer, s
 4. As the last step, a function which takes two parameters that are randomly selected reviews from your dataset and compares the similarity of the sentences semantically. You are expected to use WordNet to compute the similarity of the sentences, since it is well-known and extensively used in the community.
 
 
-For some help, following resources that explain the above mentioned techniques for practical purposes.
+-- For some help, following resources that explain the above mentioned techniques for practical purposes.
 
-https://scikit-learn.org/stable/modules/feature_extraction.html
-https://medium.freecodecamp.org/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04
-http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html
-https://scikit-learn.org/stable/modules/naive_bayes.html
-https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
-https://scikit-learn.org/stable/modules/svm.html
-https://scikit-learn.org/stable/modules/neighbors.html
-http://www.nltk.org/howto/wordnet.html
+### https://scikit-learn.org/stable/modules/feature_extraction.html
+### https://medium.freecodecamp.org/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04
+### http://zacstewart.com/2015/04/28/document-classification-with-scikit-learn.html
+### https://scikit-learn.org/stable/modules/naive_bayes.html
+### https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+### https://scikit-learn.org/stable/modules/svm.html
+### https://scikit-learn.org/stable/modules/neighbors.html
+### http://www.nltk.org/howto/wordnet.html
